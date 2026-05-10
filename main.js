@@ -6,7 +6,7 @@
 // const alert
 
 let hello = document.getElementById("helloBtn");
-
+console.log("hello");
 console.log("hello");
 
 // let message = document.getElementById("message");
